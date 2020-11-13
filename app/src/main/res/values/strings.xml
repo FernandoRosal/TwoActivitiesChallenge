@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TwoActivitiesChallenge</string>
+    <string name="texto_1">Texto 1</string>
+    <string name="texto_2">Texto 2</string>
+    <string name="texto_3">Texto 3</string>
+    <string name="trescientos">Cuando el niño nació, como todo espartano fue examinado. Si hubiese nacido pequeño o raquítico, enfermizo o deforme, habría sido descartado. En cuanto pudo mantenerse en pie fue bautizado en el noble arte del combate. Le enseñaron a no retirarse jamas, a no rendirse jamas, a que morir en el campo de batalla, al servicio de Esparta, era la mayor gloria que podia alcanzar en vida.</string>
+    <string name="gladiator">Mi nombre es Máximo Décimo Meridio, comandante de los ejércitos del Norte, general de las legiones medias, fiel servidor del verdadero emperador, Marco Aurelio, padre de un hijo asesinado, marido de una mujer asesinada y alcanzaré mi venganza, en esta vida o en la próxima.</string>
+    <string name="reino_cielos">Nadie puede elegir su destino. Un rey puede mover a un hombre, un padre reclamar a un hijo, pero no olvides que aunque aquellos que te mueven sean reyes, o sean hombres con poder, tú eres el único responsable de tu alma. Cuando compadezcas ante Dios, no puedes decir que otros fueran responsables de tus actos, o que la virtud no era oportuna en aquel momento. Eso no es suficiente</string>
+    <string name="tiulo_300">300</string>
+    <string name="titulo_gladiator">Gladiator</string>
+    <string name="titlo_reino_cielos">El reino de los cielos</string>
+</resources>
